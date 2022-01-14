@@ -1,0 +1,2 @@
+# Nanosoft.Encrypter.Standard
+Encrypter
